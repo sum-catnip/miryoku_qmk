@@ -9,4 +9,4 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["crkbd"]'
-      merge: 'qmk/qmk_firmware/master'
+      merge: '["qmk/qmk_firmware/master"]'
